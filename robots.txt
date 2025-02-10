@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hasnes.csgad.com/RxZ/sitemap.xml.gz
